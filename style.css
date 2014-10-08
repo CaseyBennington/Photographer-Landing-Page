@@ -49,11 +49,11 @@ table {
 /****  Styles   ****/
 @font-face {
     font-family: euphoria;
-    src: url(fonts/euphoriascript-regular.otf);
+    src: url(fonts/EuphoriaScript-Regular.otf);
 }
 @font-face {
     font-family: jenna;
-    src: url(fonts/jennasue.ttf);
+    src: url(fonts/Jennasue.ttf);
 }
 body,
 html {
