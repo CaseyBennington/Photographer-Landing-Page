@@ -90,6 +90,7 @@ header {
   	z-index: 99999;
 }
 nav {
+	display: inline-block;
 	position: relative;
 	top: 4%;
 	left: 62%;
