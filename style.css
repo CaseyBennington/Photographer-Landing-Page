@@ -91,7 +91,7 @@ header {
 }
 nav {
 	display: inline-block;
-	position: relative;
+	position: absolute;
 	top: 4%;
 	left: 62%;
 	font-family: jenna;
